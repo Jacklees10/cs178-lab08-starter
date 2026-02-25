@@ -1,5 +1,5 @@
 # CS178 - Lab 8 Starter
-# Lab 8 - Your Name
+# Lab 8 - Ben Jackels
 
 
 REGION = "us-east-1"
